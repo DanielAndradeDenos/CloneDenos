@@ -1,0 +1,16 @@
+{
+  "name": "clonedenos",
+  "version": "1.0.0",
+  "description": "Um projeto para treinar programação e aumentar meu reconhecimento tanto em Git/GitHub quanto na dominancia de linguagens e capturas de bugs em código",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
