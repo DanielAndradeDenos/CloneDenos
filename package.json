@@ -4,7 +4,7 @@
   "description": "Um projeto para treinar programação e aumentar meu reconhecimento tanto em Git/GitHub quanto na dominancia de linguagens e capturas de bugs em código",
   "main": "index.js",
   "scripts": {
-    "dev": "next dev"
+   "dev": "next dev"
   },
   "author": "",
   "license": "MIT",
